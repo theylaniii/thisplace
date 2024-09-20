@@ -4,6 +4,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import SidePanel from './components/sidepanel';
 import './App.css';
 
+// Set your Mapbox access token
 mapboxgl.accessToken = 'pk.eyJ1IjoidGhleWxhbmkiLCJhIjoiY20xMXBwa3ltMHZjaDJub3J2d3YxbTFzYiJ9.RvlEftmq8kelS_D4APbuPA';
 
 function App() {
@@ -23,13 +24,8 @@ function App() {
     });
 
     // Fetch the GeoJSON file
-    fetch('/map.geojson') // Assuming you placed the file in public/map.geojson
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        return response.json();
-      })
+    fetch('/map.geojson') // Assuming the file is in public/map.geojson
+      .then((response) => response.json())
       .then((geojsonData) => {
         // Loop through each feature in the GeoJSON file
         geojsonData.features.forEach((feature) => {
@@ -41,8 +37,9 @@ function App() {
             .setLngLat(coordinates)
             .addTo(map.current);
 
-          // Handle marker click for the side panel
+          // Handle marker click for both the side panel and pop-up
           marker.getElement().addEventListener('click', () => {
+            // Set side panel data
             setSelectedMarker({
               name,
               description,
@@ -60,9 +57,14 @@ function App() {
 
   return (
     <div>
+      {/* Render the side panel if a marker is clicked */}
       {selectedMarker && (
-        <SidePanel selectedMarker={selectedMarker} onClose={() => setSelectedMarker(null)} />
+        <SidePanel
+          selectedMarker={selectedMarker}
+          onClose={() => setSelectedMarker(null)} // Clear the marker when the side panel is closed
+        />
       )}
+      {/* Map container */}
       <div ref={mapContainer} style={{ width: '100%', height: '100vh' }} />
     </div>
   );

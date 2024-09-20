@@ -7,7 +7,6 @@ import './sidepanel.css';
 function SidePanel({ selectedMarker, onClose }) {
   if (!selectedMarker) return null;
 
-
   const settings = {
     dots: false,
     infinite: true,
@@ -27,12 +26,13 @@ function SidePanel({ selectedMarker, onClose }) {
 
   return (
     <div className="sidepanel"> 
-      <button onClick={onClose} type="button">Close</button> {/* Added type="button" */}
+      <button onClick={onClose} type="button">Close</button> {/* Added type="button" for closing side panel */}
 
       <h3>{selectedMarker.name}</h3> {/* Name (Title) */}
       
       <h4>{selectedMarker.description}</h4> {/* One-line Description */}
 
+      {/* Image Carousel */}
       {selectedMarker.images && selectedMarker.images.length > 0 && (
         <Slider {...settings}>
           {selectedMarker.images.map((image, index) => (
@@ -41,14 +41,15 @@ function SidePanel({ selectedMarker, onClose }) {
             </div>
           ))}
         </Slider>
-      )} {/* Image Carousel */}
+      )}
 
+      {/* Audio Element */}
       {selectedMarker.audio && (
         <audio controls>
           <source src={selectedMarker.audio} type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
-      )} {/* Audio */}
+      )}
 
       {/* Render text with paragraph breaks and italics */}
       {selectedMarker.text && formatTextWithItalics(selectedMarker.text)}
