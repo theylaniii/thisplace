@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9834110260286, -37.80798424369254]
+      },
+      "properties": {
+        "name": "Spirit Never Dies: In Honour of the Djabwurrung Directional Tree",
+        "description": "Djabwurrung mural - 4 Mason Street, Fitzroy",
+        "images": [
+          "/assets/images/djabwurrung.jpg",
+          "/assets/images/directionstree.png",
+          "/assets/images/directionstree2.jpg",
+          "/assets/images/directionstree3.jpeg"
+        ],
+        "audio": "/assets/audio/spirit-never-dies.mp3",
+        "text": "On the 26th October 2020, Dan Andrews announced an end to the endless COVID lockdown. Under cover of mass celebration, the ordering of the felling of the sacred Djab Wurrung Directions Tree, and 50 other significant Djab Wurrung birthing trees, was quietly made. The voices of the Djab Warrung people were drowned out by the joy of the majority .\n\nThis mural by Nicole Cocis, a non-Indigenous ceramicist and artist, honours this significant loss.\n\n\n\nDjab Wurrung woman Sissy Eileen Austin, wrote in The Guardian the next day:\n\n <div style='text-align: center; '> <i>“Our bodies are at one with country, we can feel the chains of the chainsaw grinding through our souls, our spirits. The sounds of those chainsaws will haunt us forever and be added to the already existing intergenerational trauma shadowing our people. There are no words to describe the emptiness we as Djab Wurrung are feeling right now.”</i></div>\n\nMeriki Onus, co-founder of Warriors of the Aboriginal Resistance (WAR), whose great-grandmother Aunty Edna Brown founded the Fitzroy Aboriginal Funeral Service, states: <b><i>“I feel like Victoria are dancing on our graves with doughnuts and whisky.”</i></b>\n\nThe loss of these trees cannot be overstated.\n\n<div style='text-align: center;'> <i>“We hear a lot about the layers of trauma Aboriginal people carry on a daily basis, this must be understood by all, and to heal these layers of trauma we need country, country as a whole, not just one element, the entirety of what makes country, country”,<i></div>\n\n wrote Sissy Austin for IndigenousX.\n\nThe Victorian government responded to Indigenous community leaders and Djab Wurrung Tree Embassy organisers' grief-stricken statements by claiming they’d had numerous consultations with Djab Wurrung people and determined it was not culturally significant.\n\nOctober 26th 2020 will, for the majority of those subjected to the harsh Melbourne lockdowns, be remembered as 'Donut Day' — a day of celebration. For Djab Wurrung people, it is a day of unspeakable grief and devastation."
+      },
+      "id": "0772F5A744333DC78E78"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9789047162053, -37.80601303660372]
+      },
+      "properties": {
+        "name": "The Celebration Dreaming by Robert Young - 136 Gertrude Street, Fitzroy",
+        "description": "A mural created by Robert Young highlighting the rich history of First Nations activism, culture and heritage in the area, and the signficance of the old VAHS building.",
+        "images": [
+          "/assets/images/creationdream.jpg",
+          "/assets/images/creationdream2.avif",
+          "/assets/images/creationdream3.avif",
+          "/assets/images/creationdream4.avif",
+          "/assets/images/vahs193.jpg"
+        ],
+        "text": "The Celebration Dreaming Mural was made by Gunaikurnai-Wurundjeri artist Robert Young with Mike Makatron and Heesco and commissioned by the City of Yarra in 2017.\n\nSpeaking about the mural, Young says,\n\n <div style='text-align: center; '> <i>“My great, great grandparents were the first Aboriginal people to live on Gertrude Street in Fitzroy, setting up the first church for local Aboriginal people in their home. My grandfather and grandmother created one of the first Aboriginal legal services in Australia here in Fitzroy. And my Mum worked as a dental nurse on the dental bus run by the Victorian Aboriginal Health Service which was originally based where Charcoal Lane is now.” </i></div>\n\nBetween 1979 and 1992 the building was home to the Aboriginal Health Service, which, as well as providing health services, was a surrogate community centre for the Fitzroy Aboriginal community. \n\n\nIn 2009, Charcoal Lane restaurant was established in partnership with VAHS as a social enterprise. Between 2009 and 2021, Charcoal Lane supported over 300 young Indigenous and Torres Strait Islander people in receiving hospitality and professional training in a culturally supportive environment. Upon closing its doors in 2021, the building returned to its health service roots once more, as demand for VAHS services exponentially increased."
+      },
+      "id": "0249BBDD2F333DCCCD6A"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.982350273712, -37.80838268659252]
+      },
+      "properties": {
+        "name": "This Mob x The Torch Mural - 3cr Courtyard, 21 Smith St, Fitzroy",
+        "description": "Completed in 2023 by This Mob artists Sofii and Enoki in collaboration with The Torch.",
+        "images": [
+          "/assets/images/thismob1.png",
+          "/assets/images/thismob2.png",
+          "/assets/images/thismob3.png"
+        ],
+        "text": "The mural reflects the impact of community-run radio in amplifying grassroots voices, particularly within Melbourne's Indigenous community."
+      },
+      "id": "0566CB2529333DCDE4D6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9835023612548, -37.79451711650826]
+      },
+      "properties": {
+        "name": "Faces of Fitzroy: Auntie Viv Malo Mural",
+        "description": "A portrait of Auntie Viv Malo, painted by Heesco as part of the Fitzroy Faces project.",
+        "images": [
+          "/assets/images/auntieviv.jpg",
+          "/assets/images/auntievivcecilst.jpg",
+          "/assets/images/auntievivm.jpg",
+          "/assets/images/auntvivrally.jpg",
+          "/assets/images/auntvivunclerobbie.jpg",
+          "assets/images/auntievivnaidoc.jpg"
+        ],
+        "text": "A portrait of the late local Gooniyandi elder, Auntie Vivian Malo. Aunt Viv was an activist, actress, and longtime 3CR community radio producer, beloved in the community by all who knew her. Her portrait here was painted by Khosnaran Khurelbaatar, a Mongolian-Australian muralist and fine artist also known as Heesco. The portrait is part of the 50m long 'Fitzroy Faces', or 'Fry's Wall' mural project and is located on the Rear of Fry’s Storage on Cecil Street, Fitzroy.\n\n The mural project was completed in 2016, six years before Auntie Viv passed. Aunt Viv is remembered locally as an utter force of nature, whose absence is sorely felt. Auntie Viv ran <I>The Black Block</I> program on 3CR for many years until her passing, when her partner in life and activism, the equally celebrated Uncle Robbie Thorpe, took over. <i>The Black Block</i> is a staunch, anticapitalist and decolonial program, reflective of the late Aunt Viv's values.\n\n She was deeply committed to building solidarity, to her community, and to the betterment of society in general. She always made room for the Palestinian, West Papuan and other Indigenous peooples struggles, always willing to speak up in support for their causes at rallies, and to make airtime for them on <i>The Black Block.</I> \n\nShe spoke out again Islamophobia and all forms of racism and bigotry. She participated in climate justice efforts with just as much passion and concern. She cared about everyone, about everything. Her rage at colonialism and capitalism was always transmuted into acts of solidarity and care for those most impacted by it. She is deeply missed.",
+        "audio":"/assets/audio/valevivmalo.mp3"
+      },
+      "id": "0CC4F8DE12333DCFB6FA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9843969440127, -37.80281501120204]
+      },
+      "properties": {
+        "name": "Uncle Jack Charles Mural - Little Oxford St",
+        "description": "A mural of Uncle Jack Charles, painted by Matt Adnate.",
+        "images": [
+          "/assets/images/uncjacmu.jpeg",
+          "/assets/images/uncjacmu2.jpg",
+          "assets/images/uncjacmu3.jpg"
+        ],
+        "text": "A new mural completed April 2024, by artist Matt Adnate, honouring the late Uncle Jack Charles, with permission from his family. Uncle Jack is a beloved Wurundjeri, Bunurong, and Djadjawurrung elder, actor and activist. A well known face about town, a source of comfort and humour, an activist, an artist. A motorcycle enthusiast, a ceramicist, a recovered heroin addict, a 'repeated offender', an 'ex-crim'. A Blak, gay elder of the Stolen Generation, cherished by all. \n\nTaken from his family at a young age and placed in state care in the inner north, Uncle Jack experienced immense sexual and physical violence at those who was tasked with caring for him and the other children. In his memoir <I>Born Again Blakfella</i>, written by Namila Benson, he is candid about the horrific things he experienced that led to his cycle of incarceration, homelessness and addiction. Notably he discusses the first instance of his incarceration, a result of trying to reconnect with family through meeting other Blakfellas in Fitzroy. This was apparently illegal for Stolen Generation children to do in the 1970s. \n\nIt is extremely lucky for us that Uncle Jack beat the immense odds stacked against him, and that he shared his story with us before he passed. It is written down, it is on record. Uncle Jack speaks for the countless Aboriginal children taken away over the generations, who did not beat the odds, who did not get to share their stories. We are so thankful to Uncle Jack Charles for his generosity and openness. His contributions to Naarm, to his communities, and to the arts will always be remembered."
+      },
+      "id": "082AA6F5DB333DD1F7B0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9671457363924, -37.81198032278871]
+      },
+      "properties": {
+        "name": "Chinatown, Little Bourke St",
+        "description": "The heart of Melbourne's Chinatown district.",
+        "images": [
+          "/assets/images/lilbourkest1.webp",
+          "/assets/images/lilbourkest2.webp"
+        ],
+        "audio": "/assets/audio/lilbourke.wav",
+        "text": "A bustling hub of Chinese culture, Chinatown is one of the oldest Chinese settlements in the Western world."
+      },
+      "id": "0E5AF7D37B333DDE9333"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9605750501409, -37.81827116967909]
+      },
+      "properties": {
+        "name": "Uncle Jack Charles Mural by Aretha Brown - 408 Flinders Lane, Melbourne",
+        "description": "A temporary mural, one of four by Brown, erected for the reconstruction area surrounding Collins Arch in 2022.",
+        "images": [
+          "/assets/images/uncjacaretha.jpg",
+          "/assets/images/uncjf.png",
+          "/assets/images/uncjf1.jpg",
+          "/assets/images/uncjf2.jpg",
+          "/assets/images/uncjf3.jpeg"
+        ],
+        "text": "Artist Aretha Brown honors Uncle Jack Charles through this mural, celebrating his contributions to Indigenous culture and the arts."
+      },
+      "id": "07785A63B5333E0FB63F"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9824656, -37.8078675]
+      },
+      "properties": {
+        "name": "3CR Community Radio - 21 Smith St, Fitzroy",
+        "description": "50 years of radical grassroots people-powered community radio.",
+        "images": [
+          "/assets/images/3crcommpress.jpg",
+          "/assets/images/3crmakeourown.jpg",
+          "assets/images/3crtrainposter1985.jpg",
+          "assets/images/3crposter1987.jpg",
+          "/assets/images/3crmultilingual.jpg",
+          "assets/images/3crthepeoplesvoice.jpg",
+          "/assets/images/3crschedule.jpg"
+        ],
+        "audio": "/assets/audio/3cr.mp3",
+        "text": "3CR has been at the forefront of amplifying the voices of underrepresented communities in Melbourne for half a century. It has never deviated from its radical, community roots. 3CR programs cover everything that mainstream media and journalism does not. It has been fundamental in building cross-solidarity amongst communities for decades in Naarm. \n\nThere is no political issue or uncomfortable historical or present reality it has shied away from. For 50 years it has covered industrial and class issues, environmental and climate justice issues, decolonial, anti-imperialist and anti-capitalist efforts, disability justice, LGBTQIA+ issues - the list is ongoing. It consistently platforms people livin in the margins of the margins. 3CR is a testament to the power of the people, and to the collective care we are capable of. 3CR is a bright spark of hope in the darkness. A constant, unbroken beam of love, justice and truth through the airwaves, willing each of us to learn, to care and to listen to one another."
+      },
+      "id": "075ECD2327333E110CD2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9834244985294, -37.803326725378035]
+      },
+      "properties": {
+        "name": "Sybylla Press, 193 Smith St, Fitzroy",
+        "description": "1970s Feminist Printing Co-op",
+        "images": [
+          "/assets/images/sybyllabook.jpg",
+          "/assets/images/sybyllaphoto.webp",
+          "/assets/images/sybyllaposter.png"
+        ],
+        "audio": "/assets/audio/sybylla.mp3",
+        "text": "Sybylla Press as a group of women, they set up on Smith Street in Fitzroy in 1976 and were deeply involved in the feminist movement, printing flyers, posters, and materials for social justice causes and progressive communities. In an era where radical voices didn’t have many platforms available to them, Sybylla Press became a much-needed space for women’s alternative literature. \n\nThe press operated as a collective, in which there were no bosses and no wage gaps, everyone worked together on equal footing. As the oldest feminist press in Australia, Sybylla focused on publishing experimental fiction by women. Some of their notable works include Frictions, featuring authors like Elizabeth Jolley, Finola Moorhead, Andrea Goldsmith, and Ania Walwicz, and Motherlode, edited by Stephanie Holt and Maryanne Lynch. \n\nIn an issue in the Tribune in 1987, Sybylla was published in the hopes to gain funding from the public and specifically from Communist Party supporters. Bernice Morris, a member of the Communist Party of Australia and nurse-turned-author wrote this piece and promoted her autobiography, Between the Lines, which recounts her experience in World War II where she joined the organisation and other areas of her personal life. \n\nAlthough they stopped printing in 1988, Sybylla Press continued to publish books until 2001. It was a groundbreaking venture that made a lasting mark on the Melbourne feminist publishing scene."
+      },
+      "id": "SYBYLLA123"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.96870736931675, -37.81138919690081]
+      },
+      "properties": {
+        "name": "Chinese Mission Church, Little Bourke St, Melbourne",
+        "description": "A historic place of faith and connection for the Chinese-Australian community",
+        "images": [
+          "/assets/images/chimish2.jpg",
+          "/assets/images/chimish1.jpeg"
+        ],
+        "audio": "/assets/audio/chimish.wav",
+        "text": "The Chinese Mission Church, established in 1872 on Little Bourke Street, served as a place of refuge and worship for Chinese immigrants during a time of widespread discrimination. Beyond offering religious services, the church fostered a sense of community and provided social support, helping Chinese settlers navigate life in a foreign land. Today, it stands as a symbol of resilience, faith, and unity for Melbourne’s Chinese-Australian community."
+      },
+      "id": "0CABC78AD7333E153776"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9714238919382, -37.80507286387744]
+      },
+      "properties": {
+        "name": "1990s AIDs Memorial Quilt, Royal Exhibition Centre, Carlton",
+        "description": "Memorial to lives lost to HIV/AIDS in the 1990s",
+        "images": [
+          "/assets/images/royalexhb.jpg",
+          "/assets/images/royalquilt.jpg",
+          "/assets/images/quilt1.jpg",
+          "/assets/images/quilt2.jpg",
+          "/assets/images/quilt3.jpg"
+        ],
+        "audio": "/assets/audio/royalexhb.mp3",
+        "text": "Founded in 1987, the quilt consisted of 209 fabric panels created by people who have lost loved ones to HIV/AIDS. They were sewn together, each panel unique, commemorating the individuality of the deceased with words and images that evoke particular interests or habits. This offered a different way to display the tragedy of AIDS-related deaths, rather than simplifying the individuals affected by this disease to mere statistics. \n\nSelected panels are displayed each year on 1st of December at World AIDS Day events as a formal ritual, and the ‘unfolding’ is practiced. In October of 2001, much of the quilt was displayed in Melbourne’s Royal Exhibition Centre. \n\nThe Quilt’s enormous personal, political, and historical significance brought together grieving families, friends, and activists to reflect on the impact of HIV/AIDS on both a global and Australian community level. \n\nThis exhibition is exemplified most poignantly by the story of one Victorian panel, in memory of Daren Olver. Daren had died in 1994 and his mother, Cheryl, created his panel to remember him by. \n\nThe panel includes a baby photo, a photo of Daren as an adult, and a rainbow. The Quilt, now heritage-listed, is displayed each year at Thorne Harbour Health (formerly the Victorian AIDS Council) in South Yarra for World AIDS Day."
+      },
+      "id": "07AD88CFB5333E188FA7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9817137445388, -37.74521456229794]
+      },
+      "properties": {
+        "name": "Merri Creek Trail",
+        "images": [
+          "/assets/images/merricreek.jpg",
+          "/assets/images/merricreek2.jpg"
+        ],
+        "audio": "/assets/audio/merricreek.mp3",
+        "text": "The Merri Creek Trail follows the winding Merri Creek as it passes through Melbourne's northern suburbs, providing a peaceful walking and cycling path away from the hustle and bustle of the city."
+      },
+      "id": "0F87C8BD43333E1820D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9817189, -37.806011]
+      },
+      "properties": {
+        "name": "The Blak History of the Builders Arms Hotel",
+        "images": [
+          "/assets/images/BuildersArmsHeader.JPG",
+          "/assets/images/FitzroyStarsTeam.jpg"
+        ],
+        "audio": "/assets/audio/builders.mp3",
+        "text": "The Builders Arms Hotel, located on Gertrude Street, Fitzroy, has a rich history as a community hub for the local Indigenous and activist scenes. It was the home base for the Fitzroy Stars Aboriginal Football Club, and has hosted a range of cultural and social movements."
+      },
+      "id": "093AC5A288333E141CC8"
+    }
+  ]
+}
+  
