@@ -216,7 +216,7 @@
       "properties": {
         "name": "1990s AIDs Memorial Quilt, Royal Exhibition Centre, Carlton",
         "description": "Memorial to lives lost to HIV/AIDS in the 1990s",
-        "icon": "/assets/icons/quilt.png",
+        "icon": "/assets/icons/quilticon.png",
         "images": [
           "/assets/images/royalexhb.jpg",
           "/assets/images/royalquilt.jpg",
