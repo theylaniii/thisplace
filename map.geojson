@@ -17,6 +17,7 @@
           "/assets/images/directionstree3.jpeg"
         ],
         "audio": "/assets/audio/spirit-never-dies.mp3",
+        "icon": "/assets/icons/djabwurrungicon.png",
         "text": "On the 26th October 2020, Dan Andrews announced an end to the endless COVID lockdown. Under cover of mass celebration, the ordering of the felling of the sacred Djab Wurrung Directions Tree, and 50 other significant Djab Wurrung birthing trees, was quietly made. The voices of the Djab Warrung people were drowned out by the joy of the majority .\n\nThis mural by Nicole Cocis, a non-Indigenous ceramicist and artist, honours this significant loss.\n\n\n\nDjab Wurrung woman Sissy Eileen Austin, wrote in The Guardian the next day:\n\n <div style='text-align: center; '> <i>“Our bodies are at one with country, we can feel the chains of the chainsaw grinding through our souls, our spirits. The sounds of those chainsaws will haunt us forever and be added to the already existing intergenerational trauma shadowing our people. There are no words to describe the emptiness we as Djab Wurrung are feeling right now.”</i></div>\n\nMeriki Onus, co-founder of Warriors of the Aboriginal Resistance (WAR), whose great-grandmother Aunty Edna Brown founded the Fitzroy Aboriginal Funeral Service, states: <b><i>“I feel like Victoria are dancing on our graves with doughnuts and whisky.”</i></b>\n\nThe loss of these trees cannot be overstated.\n\n<div style='text-align: center;'> <i>“We hear a lot about the layers of trauma Aboriginal people carry on a daily basis, this must be understood by all, and to heal these layers of trauma we need country, country as a whole, not just one element, the entirety of what makes country, country”,<i></div>\n\n wrote Sissy Austin for IndigenousX.\n\nThe Victorian government responded to Indigenous community leaders and Djab Wurrung Tree Embassy organisers' grief-stricken statements by claiming they’d had numerous consultations with Djab Wurrung people and determined it was not culturally significant.\n\nOctober 26th 2020 will, for the majority of those subjected to the harsh Melbourne lockdowns, be remembered as 'Donut Day' — a day of celebration. For Djab Wurrung people, it is a day of unspeakable grief and devastation."
       },
       "id": "0772F5A744333DC78E78"
@@ -29,6 +30,7 @@
       },
       "properties": {
         "name": "The Celebration Dreaming by Robert Young - 136 Gertrude Street, Fitzroy",
+        "emoji": "👨🏾‍🎨",
         "description": "A mural created by Robert Young highlighting the rich history of First Nations activism, culture and heritage in the area, and the signficance of the old VAHS building.",
         "images": [
           "/assets/images/creationdream.jpg",
@@ -49,6 +51,7 @@
       },
       "properties": {
         "name": "This Mob x The Torch Mural - 3cr Courtyard, 21 Smith St, Fitzroy",
+        "emoji": "🖌️",
         "description": "Completed in 2023 by This Mob artists Sofii and Enoki in collaboration with The Torch.",
         "images": [
           "/assets/images/thismob1.png",
@@ -67,6 +70,7 @@
       },
       "properties": {
         "name": "Faces of Fitzroy: Auntie Viv Malo Mural",
+        "emoji": "👵🏾",
         "description": "A portrait of Auntie Viv Malo, painted by Heesco as part of the Fitzroy Faces project.",
         "images": [
           "/assets/images/auntieviv.jpg",
@@ -90,6 +94,7 @@
       "properties": {
         "name": "Uncle Jack Charles Mural - Little Oxford St",
         "description": "A mural of Uncle Jack Charles, painted by Matt Adnate.",
+        "emoji": "👴🏾",
         "images": [
           "/assets/images/uncjacmu.jpeg",
           "/assets/images/uncjacmu2.jpg",
@@ -108,6 +113,7 @@
       "properties": {
         "name": "Chinatown, Little Bourke St",
         "description": "The heart of Melbourne's Chinatown district.",
+        "icon": "/assets/icons/china.png",
         "images": [
           "/assets/images/lilbourkest1.webp",
           "/assets/images/lilbourkest2.webp"
@@ -126,6 +132,7 @@
       "properties": {
         "name": "Uncle Jack Charles Mural by Aretha Brown - 408 Flinders Lane, Melbourne",
         "description": "A temporary mural, one of four by Brown, erected for the reconstruction area surrounding Collins Arch in 2022.",
+        "emoji": "👴🏾",
         "images": [
           "/assets/images/uncjacaretha.jpg",
           "/assets/images/uncjf.png",
@@ -146,6 +153,7 @@
       "properties": {
         "name": "3CR Community Radio - 21 Smith St, Fitzroy",
         "description": "50 years of radical grassroots people-powered community radio.",
+        "emoji": "📻",
         "images": [
           "/assets/images/3crcommpress.jpg",
           "/assets/images/3crmakeourown.jpg",
@@ -169,6 +177,7 @@
       "properties": {
         "name": "Sybylla Press, 193 Smith St, Fitzroy",
         "description": "1970s Feminist Printing Co-op",
+        "icon": "/assets/icons/sybicon.png",
         "images": [
           "/assets/images/sybyllabook.jpg",
           "/assets/images/sybyllaphoto.webp",
@@ -188,6 +197,7 @@
       "properties": {
         "name": "Chinese Mission Church, Little Bourke St, Melbourne",
         "description": "A historic place of faith and connection for the Chinese-Australian community",
+        "icon": "/assets/icons/church.png",
         "images": [
           "/assets/images/chimish2.jpg",
           "/assets/images/chimish1.jpeg"
@@ -206,6 +216,7 @@
       "properties": {
         "name": "1990s AIDs Memorial Quilt, Royal Exhibition Centre, Carlton",
         "description": "Memorial to lives lost to HIV/AIDS in the 1990s",
+        "icon": "/assets/icons/quilt.png",
         "images": [
           "/assets/images/royalexhb.jpg",
           "/assets/images/royalquilt.jpg",
@@ -226,14 +237,14 @@
       },
       "properties": {
         "name": "Merri Creek Trail",
+        "icon": "/assets/icons/merriicon.png",
         "images": [
           "/assets/images/MerriCreekArt.JPG",
           "/assets/images/merricreekfriends.png",
           "/assets/images/MerriCreekHeader.JPG"
           
         ],
-        "audio": "/assets/audio/merri.mp3",
-        "text": "hi"
+        "audio": "/assets/audio/merri.mp3"
       },
       "id": "0F87C8BD43333E1820D8"
     },
@@ -245,14 +256,14 @@
       },
       "properties": {
         "name": "The Blak History of the Builders Arms Hotel",
+        "icon": "/assets/icons/buildicon.png",
         "images": [
           "/assets/images/builders.png",
           "/assets/images/BuildersArmsHeader.JPG",
           "/assets/images/FitzroyStarsTeam.jpg"
           
         ],
-        "audio": "/assets/audio/builders.mp3",
-        "text": "pls work lol"
+        "audio": "/assets/audio/builders.mp3"
       },
       "id": "093AC5A288333E141CC8"
     }
